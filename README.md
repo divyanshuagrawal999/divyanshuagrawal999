@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshuagrawal999" alt="divyanshuagrawal999" /></a> </p>
 
-- 🔭 I’m currently working on **ClubINN**
+- 🔭 I’m currently working on a **Traveling Application**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m a **Full Stack Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/divyanshuagrawal999](https://github.com/divyanshuagrawal999)
 
